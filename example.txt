@@ -1,1 +1,2 @@
 Initial content
+Hotfix for critical bug
